@@ -1,4 +1,4 @@
-#Javascript Saat ve Karşılama
+# Javascript Saat ve Karşılama
 Bu repo Patika.dev Javascript eğitiminde oluşturduğum  Ödev-1 Javascript Saat ve Karşılamadır.
 ## Proje Görünümü
 
