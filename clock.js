@@ -19,18 +19,3 @@ function sss(){
 
 }
 setInterval(sss,50)
-// {
-// var date = new Date();
-//   var hours = date.getHours();
-//   var minutes = date.getMinutes();
-//   var seconds = date.getSeconds();
-
-//   // Saat bilgileri iki haneli olacak şekilde biçimlendiriliyor
-//   hours = ("0" + hours).slice(-2);
-//   minutes = ("0" + minutes).slice(-2);
-//   seconds = ("0" + seconds).slice(-2);
-
-//   document.getElementById("myClock").innerHTML = hours + ":" + minutes + ":" + seconds;
-// }
-
-// setInterval(updateClock, 1000); // Her saniye içinde "updateClock" işlevini yinele
